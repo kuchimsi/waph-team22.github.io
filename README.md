@@ -27,7 +27,7 @@ Project homepage (public): (https://github.com/waph-team22/waph-team22.github.io
 - Logging-in:
 
 - login:
-  ![Figure 2:](Imgs/loginpage.png)
+  ![Figure 2:](Imgs/Loginpage.png)
 
 - Changing the password:
   ![Figure 3:](images/final3.png)
