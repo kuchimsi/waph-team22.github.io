@@ -22,19 +22,26 @@ Project homepage (public): (https://github.com/waph-team22/waph-team22.github.io
 
 - Registration of an account from any user: 
 
-![Figure 1:](images/final1.png)
+![Figure 1:](Imgs/Regpage.png)
 
-- Logging-in:
+![Figure 2:](Imgs/regsuccess.png)
+
 
 - login:
   ![Figure 2:](Imgs/Loginpage.png)
 
 - Changing the password:
-  ![Figure 3:](images/final3.png)
+  ![Figure 3:](Imgs/changepasswdform.png)
+
+  ![Figure 4:](Imgs/chngpwdsuccess.png)
+
 
 -Adding a new post:
- ![Figure 3:](images/final4.png)
- ![Figure 4:](images/final4-1.png)
+ ![Figure 3:](Imgs/createnewpost.png)
+ 
+ ![Figure 4:](Imgs/postsucack.png)
+
+ ![Figure 4:](Imgs/postaddsuc.png)
  
 - Editing posts:
    ![Figure 5:](images/final5.png)
