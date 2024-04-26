@@ -53,11 +53,18 @@ Project homepage (public): (https://github.com/waph-team22/waph-team22.github.io
   ![Figure 6:](Imgs/dbafteredit.png)
 
 - Deleting a post:
- ![Figure 7:](images/final6.png)
+ ![Figure 5:](Imgs/editndelopt.png)
+
+![Figure 5:](Imgs/deloption.png)
+
+![Figure 5:](Imgs/deloption1.png)
+
+![Figure 5:](Imgs/dbbeforedel.png)
+
+![Figure 5:](Imgs/dbaftterdel.png)
 
 -Adding comments on any post:
-  ![Figure 8:](images/final7.png)
-  ![Figure 9:](images/final7-1.png)
+  ![Figure 8:](Imgs/addcmt1.png)
 
 -Real-time chat with other users:
 ![Figure 10:](images/final8.png)
