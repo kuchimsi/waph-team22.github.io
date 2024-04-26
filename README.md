@@ -44,8 +44,13 @@ Project homepage (public): (https://github.com/waph-team22/waph-team22.github.io
  ![Figure 4:](Imgs/postaddsuc.png)
  
 - Editing posts:
-   ![Figure 5:](images/final5.png)
-  ![Figure 6:](images/final5-1.png)
+  ![Figure 5:](Imgs/editndelopt.png)
+  
+  ![Figure 6:](Imgs/afterclickeditopt.png)
+
+  ![Figure 6:](Imgs/dbbeforedit.png)
+
+  ![Figure 6:](Imgs/dbafteredit.png)
 
 - Deleting a post:
  ![Figure 7:](images/final6.png)
